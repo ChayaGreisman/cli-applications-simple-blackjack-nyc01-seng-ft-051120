@@ -50,11 +50,6 @@ def hit?(current_card_total)
 end
 
 
-
-#####################################################
-# get every test to pass before coding runner below #
-#####################################################
-
 def runner
   welcome
   card_total = initial_round
